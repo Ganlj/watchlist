@@ -5,7 +5,7 @@ from flask import render_template
 
 app=Flask(__name__)
 
-name = 'Grey Li'
+name = 'Lin jun'
 movies = [
     {'title': 'My Neighbor Totoro', 'year': '1988'},
     {'title': 'Dead Poets Society', 'year': '1989'},
